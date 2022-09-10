@@ -8,6 +8,6 @@ namespace MatchScoreUpdater
 {
     enum CricketScores
     {
-        Single=1,Double,Triple,Four,Six,LBWOut,CatchOut,RunOut,StumpedOut,Bowled
+        Single=1,Double,Triple,Four,Six,LBWOut,CatchOut,RunOut,StumpedOut,Bowled,MatchEnded,FirstBattingCompleted
     }
 }

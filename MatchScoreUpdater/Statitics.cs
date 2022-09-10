@@ -15,7 +15,7 @@ namespace MatchScoreUpdater
            this.statitics = new Hashtable();
         }
         
-        public  void addStats(string title, double value)
+        public  void addStats(string title, int value)
         {
             this.statitics.Add(title, value);
         }
